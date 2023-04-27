@@ -11,8 +11,8 @@
 #### ESC: Pause
 
   ## Subway Surfers Games
-### [Zurich](https://coolan127gamer.github.io/Subway-Surfers-JS/Zurich)
-### [Houston](https://coolan127gamer.github.io/Subway-Surfers-JS/Houston/)
-### [Monaco](https://coolan127gamer.github.io/Subway-Surfers-JS/Monaco/)
-### [San Francisco](https://coolan127gamer.github.io/Subway-Surfers-JS/San%20Francisco/)
-### [Berlin](https://coolan127gamer.github.io/Subway-Surfers-JS/Berlin/)
+### [Zurich](https://coolan127gamer.github.io/Subway-Surfers-JS/Games/Zurich)
+### [Houston](https://coolan127gamer.github.io/Subway-Surfers-JS/Games/Houston/)
+### [Monaco](https://coolan127gamer.github.io/Subway-Surfers-JS/Games/Monaco/)
+### [San Francisco](https://coolan127gamer.github.io/Subway-Surfers-JS/Games/San%20Francisco/)
+### [Berlin](https://coolan127gamer.github.io/Subway-Surfers-JS/Games/Berlin/)
