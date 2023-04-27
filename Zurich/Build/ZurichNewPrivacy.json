@@ -2,7 +2,7 @@
 "companyName": "Kiloo Games",
 "productName": "Subway Surfers",
 "productVersion": "1.94.0",
-"dataUrl": "https://files.ufreegame.net/1024/Subway-Surfers-Zurich/Build/ZurichNewPrivacy.data.unityweb",
+"dataUrl": "ZurichNewPrivacy.data.unityweb",
 "wasmCodeUrl": "ZurichNewPrivacy.wasm.code.unityweb",
 "wasmFrameworkUrl": "ZurichNewPrivacy.wasm.framework.unityweb",
 "asmCodeUrl": "ZurichNewPrivacy.asm.code.unityweb",
