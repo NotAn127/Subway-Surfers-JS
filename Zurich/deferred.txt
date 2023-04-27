@@ -1,0 +1,10 @@
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/poki-sdk-core.js
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/b3f5e1472e1bfbee1804c7e854546a08.png
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/torus-bold-webfont.woff2
+https://a.poki.com/fonts/torus-bold-webfont.woff
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/UnityLoader.2019.2.js
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/screenshots/1-small.jpg
+https://files.ufreegame.net/favicon.ico
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/screenshots/1-small.png
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/screenshots/1.jpg
+https://files.ufreegame.net/1024/Subway-Surfers-Zurich/screenshots/1.png
