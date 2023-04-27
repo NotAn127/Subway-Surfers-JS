@@ -12,5 +12,5 @@ Source, of Subway Surfers browser
   ## Subway Surfers Games
 ### Zurich: https://coolan127gamer.github.io/Subway-Surfers-JS/Zurich
 ### Houston: https://coolan127gamer.github.io/Subway-Surfers-JS/Houston/
-### Monaco: Not Working
+### Monaco: https://coolan127gamer.github.io/Subway-Surfers-JS/Monaco/
 ### San Francisco: https://coolan127gamer.github.io/Subway-Surfers-JS/San%20Francisco/
