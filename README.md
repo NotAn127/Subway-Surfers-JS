@@ -1,4 +1,5 @@
 # Subway-Surfers-JS
+<img src="Images/Subway Surfers.png" alt="Alt text" title="Optional title">
 Source, of Subway Surfers browser
 
   Please know that these coding are not mine, im just importing, for later uses
