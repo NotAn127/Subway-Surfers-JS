@@ -10,6 +10,7 @@ Source, of Subway Surfers browser
 #### ESC: Pause
 
   ## Subway Surfers Games
-### Zurich: Not Working
+### Zurich: Almost Working
 ### Houston: https://coolan127gamer.github.io/Subway-Surfers-JS/Houston/
 ### Monaco: Not Working
+### San Francisco: Almost Working
