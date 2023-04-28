@@ -233,7 +233,7 @@
         d = document.createElement("img");
     d.id = "thumbnail", d.alt = r.a.title, d.title = r.a.title;
     var u = r.a.thumbnail;
-    u.startsWith("https://img.poki.com/") && (u = "https://img.poki.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,g=0.5x0.5,f=auto/".concat(u.substr(21))), d.src = u;
+    u.startsWith("https://img.poki.com/") && (u = "https://i.ytimg.com/vi/IJLwidSohO8/maxresdefault.jpg".concat(u.substr(21))), d.src = u;
     var h = i("slideshow-top-container"),
         f = i("game-title");
     f.innerText = r.a.title;
