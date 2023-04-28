@@ -31,7 +31,7 @@
         loader: "unity",
         maxRatio: 16 / 9,
         minRatio: 9 / 16,
-        thumbnail: "https://i.poki.com/q80,w100,h100,g29251,Default.jpg",
+        thumbnail: "https://i.ytimg.com/vi/IJLwidSohO8/maxresdefault.jpg",
         numScreenshots: 4,
         commentChangeTime: 5e3,
         spinnerRemoveDelay: 1e3,
